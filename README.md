@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:15-11-2025
+## Reference Number:212224040234
+## Name:Peddepi Yeswanth
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -61,6 +61,12 @@ Remove These Lines
 Remove These Lines
 1. Potential impact on the target audience
 2. Benefits of the solution (social, economic, environmental, etc.)
+
+## Architecture Diagrams
+<img width="685" height="493" alt="web 1" src="https://github.com/user-attachments/assets/67277a4d-9a8e-42e8-873f-4c8730c93bd0" />
+<img width="722" height="570" alt="web 2" src="https://github.com/user-attachments/assets/14d06602-b50b-4913-9f1c-ec8d9295a210" />
+<img width="1027" height="686" alt="web 3" src="https://github.com/user-attachments/assets/9caccc01-9a5e-4756-af20-664a0329089d" />
+<img width="670" height="388" alt="web 4" src="https://github.com/user-attachments/assets/db2ce6fe-3074-4950-a3fc-5e8213449d21" />
 
 ## Research and References
 Remove These Lines
